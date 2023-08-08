@@ -1,4 +1,5 @@
  MATPLOTLIB Hw Assignment 
+ 
 The languages that were used in this assignment were 100% python and the packages/tools imported were matplotlib.py, pandas, and scipy.stats.
 
 The tasks that were done throughout were:
